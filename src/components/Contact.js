@@ -1,4 +1,5 @@
-import React from 'react'; 
+// src/components/Contact.js (Corrected version)
+import React from 'react'; // Corrected the typo 'reacts' to 'react'
 import './Contact.css';
 
 function Contact() {
