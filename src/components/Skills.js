@@ -1,7 +1,6 @@
 import React from 'react';
 import './Skills.css';
 
-// Add or remove your skills here
 const mySkills = [
   'React',
   'JavaScript (ES6+)',
